@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/C5L4D7x/github-banner-concept-1.jpg" alt="Bannière Slim-coder20" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czM0NDRiM3hnZzJ5eGg1bzB6c2V6eXo1bnBzZnVramYzaDd2ODIxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Bannière Slim-coder20" width="100%" />
 </p>
-
-# Salut, moi c'est Slim ! 👋
 
 # Salut, moi c'est Slim ! 👋 
 
