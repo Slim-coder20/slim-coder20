@@ -19,3 +19,13 @@ Je construis des applications modernes et performantes.
 ![Statistiques de Slim](https://github-readme-stats.vercel.app/api?username=Slim-coder20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Slim-coder20&layout=compact&theme=tokyonight&hide_border=true)
+
+
+---
+
+### 📫 Me contacter & Suivre mon travail
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-abida-50161a35b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slimdev20@gmail.com)
+
+---
