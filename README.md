@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.ibb.co/C5L4D7x/github-banner-concept-1.jpg" alt="Bannière Slim-coder20" width="100%" />
+</p>
+
+# Salut, moi c'est Slim ! 👋
+
 # Salut, moi c'est Slim ! 👋 
 
 ### 🚀 Développeur Full Stack (React / Node.js)
